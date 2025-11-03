@@ -21,7 +21,7 @@ could see how programming languages handle spatial data and geometric
 calculations—skills that transfer directly to GIS mapping, game physics,
 and 3D graphics programming.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=CSQtwJhrNOQ)
 
 # Development Environment
 
